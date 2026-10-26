@@ -79,7 +79,7 @@ compliance paper trail in French.
 ## 📊 Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imadslmn&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&border_color=1f7a5c&title_color=2EA37A&icon_color=2EA37A&hide_border=false" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imadslmn&show_icons=true&count_private=true&theme=github_dark&bg_color=0d1117&border_color=1f7a5c&title_color=2EA37A&icon_color=2EA37A&hide_border=false" height="165" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadslmn&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=1f7a5c&title_color=2EA37A&hide=jupyter%20notebook,html,css" height="165" alt="languages"/>
 </div>
 
@@ -88,7 +88,7 @@ compliance paper trail in French.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imadslmn&bg_color=0d1117&color=2EA37A&line=1f7a5c&point=ffffff&area=true&area_color=0f4c3a&hide_border=false&border_color=1f7a5c" width="100%" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=imadslmn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-C,-B" alt="trophies"/>
 </div>
 
 <br/>
