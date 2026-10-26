@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c3a,100:1f7a5c&height=180&section=header&text=Imad%20Selmane&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20engineer%20%C2%B7%20founder%20of%20Solrus%20%C2%B7%20Algiers&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA37A&center=true&vCenter=true&width=600&lines=Building+software+%26+AI+for+businesses+that+run+on+it;ERP+systems+%C2%B7+automations+%C2%B7+AI+agents;Privacy-first+architecture%2C+by+design" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA37A&center=true&vCenter=true&width=640&lines=Software+%26+AI+that+businesses+run+on;ERP+systems+%C2%B7+automations+%C2%B7+AI+agents;Privacy-first+architecture%2C+by+design" alt="Typing SVG" /></a>
 
 <br/>
 
