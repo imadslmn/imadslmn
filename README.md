@@ -87,10 +87,6 @@ compliance paper trail in French.
   <img src="https://streak-stats.demolab.com?user=imadslmn&theme=github-dark-blue&background=0d1117&border=1f7a5c&ring=2EA37A&fire=2EA37A&currStreakLabel=2EA37A" height="165" alt="streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imadslmn&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=-C,-B" alt="trophies"/>
-</div>
-
 <br/>
 
 ## 🧭 How I build
