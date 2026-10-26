@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/solrus.pro-0f4c3a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://solrus.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imad-selmane/)
 [![Email](https://img.shields.io/badge/contact%40solrus.pro-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@solrus.pro)
 [![Claude Code plugin](https://img.shields.io/badge/Claude%20Code-plugin%20marketplace-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/imadslmn/claude-plugins)
 
